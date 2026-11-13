@@ -20,3 +20,6 @@
 *   **HTML5** (семантическая разметка, теги `<template>` для шаблонизации).
 *   **CSS3** (Flexbox для лейаута, кастомные чекбоксы, состояния `:hover`, `:active`, `:focus-visible`, кастомный скроллбар).
 *   **JavaScript** (работа с API, DOM, асинхронные запросы).
+  
+## Ссылка на репозиторий
+https://github.com/SPOKpupok/posmotri-v-okno-ad
